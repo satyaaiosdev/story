@@ -1,0 +1,1 @@
+Type Alias: type alias is known as set duplicate name in existing class or structures.

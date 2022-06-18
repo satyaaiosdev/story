@@ -1,0 +1,2 @@
+Variables: Variables are storing data and changeing(mutable variables)
+Constants: Constants are storing data and its not changed(immuatable variables)
