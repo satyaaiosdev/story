@@ -1,1 +1,1 @@
-Swift is protocol oriented programming language.
+Swift is protocol oriented programming language.And it is developed mobile apps.
